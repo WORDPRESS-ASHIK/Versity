@@ -22,34 +22,34 @@ int main()
         switch(choice)
         {
             case 1:
-                printf("You selected Burger.\n");
+                printf("You selected Chicken Nuggets.\n");
                 break;
             case 2:
-                printf("You selected Pizza.\n");
+                printf("You selected Onion Rings.\n");
                 break;
             case 3:
-                printf("You selected Fried Chicken.\n");
+                printf("You selected Shawarma.\n");
                 break;
             case 4:
-                printf("You selected Pasta.\n");
+                printf("You selected Nachos.\n");
                 break;
             case 5:
-                printf("You selected Sandwich.\n");
+                printf("You selected Spring Rolls.\n");
                 break;
             case 6:
-                printf("You selected French Fries.\n");
+                printf("You selected Potato Chips.\n");
                 break;
             case 7:
-                printf("You selected Biryani.\n");
+                printf("You selected Momo.\n");
                 break;
             case 8:
-                printf("You selected Noodles.\n");
+                printf("You selected Chotpoti.\n");
                 break;
             case 9:
-                printf("You selected Chicken Wings.\n");
+                printf("You selected Fuchka.\n");
                 break;
             case 10:
-                printf("You selected Ice Cream.\n");
+                printf("You selected Halim.\n");
                 break;
             default:
                 printf("Invalid choice! Please select 1-10.\n");
