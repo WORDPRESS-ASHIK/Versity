@@ -24,43 +24,33 @@ int main()
             case 1:
                 printf("You selected Burger.\n");
                 break;
-
             case 2:
                 printf("You selected Pizza.\n");
                 break;
-
             case 3:
                 printf("You selected Fried Chicken.\n");
                 break;
-
             case 4:
                 printf("You selected Pasta.\n");
                 break;
-
             case 5:
                 printf("You selected Sandwich.\n");
                 break;
-
             case 6:
                 printf("You selected French Fries.\n");
                 break;
-
             case 7:
                 printf("You selected Biryani.\n");
                 break;
-
             case 8:
                 printf("You selected Noodles.\n");
                 break;
-
             case 9:
                 printf("You selected Chicken Wings.\n");
                 break;
-
             case 10:
                 printf("You selected Ice Cream.\n");
                 break;
-
             default:
                 printf("Invalid choice! Please select 1-10.\n");
         }
